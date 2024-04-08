@@ -261,7 +261,7 @@ select {
 }
 
 .container{
-    height: 550px;
+    height: 525px;
     width: 400px;
     background: var(--Very--dark--blue);
     margin-top: 10px;
@@ -332,7 +332,7 @@ hr {
   border: none; /* Remove default border */
   border-top: 1px solid rgb(108, 103, 103); /* Add border on top */
     width: 90%;
-    transform: translate(0,-60px);
+    transform: translate(0,-65px);
 }
 
 .author {
